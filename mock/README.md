@@ -1,4 +1,4 @@
-# Mock des serveurs STARS #
+# Mock des serveurs pour le Dojo #
 ## Installation ##
 
 **Prérequis :**  Installer NodeJs et NPM
